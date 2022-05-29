@@ -3,7 +3,6 @@ title: "Test3"
 subtitle: ""
 date: 2022-05-29T23:12:41+09:00
 lastmod: 2022-05-29T23:12:41+09:00
-draft: true
 author: "Jaksam"
 authorLink: "www.linkedin.com/in/sangwon-lee-459b63156"
 description: "Always I am improving developer!"
