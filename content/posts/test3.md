@@ -1,11 +1,11 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
+title: "Test3"
 subtitle: ""
-date: {{ .Date }}
-lastmod: {{ .Date }}
+date: 2022-05-29T23:12:41+09:00
+lastmod: 2022-05-29T23:12:41+09:00
 draft: true
 author: "Jaksam"
-authorLink: "https://www.linkedin.com/in/sangwon-lee-459b63156"
+authorLink: "www.linkedin.com/in/sangwon-lee-459b63156"
 description: "Always I am improving developer!"
 license: ""
 images: []
@@ -60,3 +60,17 @@ seo:
 ---
 
 <!--more-->
+
+More Test!
+`$x = \frac{\sqrt{b^2 - 4ac}}{2a}$`
+
+`$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $`
+
+`$$
+\begin{equation}
+\tag{a1}
+\begin{matrix} a & b \\ c & d\end{matrix}
+\end{equation}
+$$`
+
+`$$ a + b = c$$`
